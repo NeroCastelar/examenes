@@ -3,7 +3,9 @@
 ### Prof: Luis Ferreira. Dpto Informática y Comunicaciones. I.E.S Castelar (Badajoz).
 
 <div style="text-align: right;">10 de octubre de 2022</div>
+
 ---
+
 ## Ejercicio 1
 1. Altera tu *Promt String* de forma que en tus capturas aparezca <code>nombre_apellido@examenGit:\w `__git_ps1`</code>
 2. Crea un repositorio privado nuevo en github denominado *examenGit-nombre_apellido* (siendo nombre y apellido tu nombre y apellido de tu padre).

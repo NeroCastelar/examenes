@@ -1,5 +1,5 @@
 # Examen GIT
-##PROGRAMACIÓN. CFGS DAW.
+## PROGRAMACIÓN. CFGS DAW.
 ### Prof: Luis Ferreira. Dpto Informática y Comunicaciones. I.E.S Castelar (Badajoz).
 
 <div style="text-align: right;">10 de octubre de 2022</div>
